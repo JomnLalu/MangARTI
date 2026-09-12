@@ -1,25 +1,3 @@
----
-base_model: unsloth/llama-3-8b-Instruct-bnb-4bit
-library_name: peft
-pipeline_tag: translation
-thumbnail: "https://mangarti.jomontolalu.com/assets/logo.png"
-tags:
-- base_model:adapter:unsloth/llama-3-8b-Instruct-bnb-4bit
-- lora
-- sft
-- transformers
-- trl
-- unsloth
-- translation
-- bahasa-indonesia
-- manadonese
-license: llama3
-datasets:
-- Jmnlalu/Bahasa-Manado-Alpaca-Translations
-language:
-- id
----
-
 <p align="center">
   <img src="https://share.jomontolalu.com/mangarti/banner.png" alt="MangARTI Banner" width="100%">
 </p>
