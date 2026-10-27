@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Training outputs and model weights (published on Hugging Face instead)
+outputs*/
+lora_translation_model*/
+unsloth_compiled_cache/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.gguf
+
+# Intermediate dataset files
+data/*.new.jsonl
+data/labeled.raw.jsonl
+
+# Tools and secrets
+.gradio/
+.streamlit/secrets.toml
+.env
+.cache/
+wandb/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
