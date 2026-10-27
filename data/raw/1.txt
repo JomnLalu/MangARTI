@@ -1,0 +1,440 @@
+Saya mau makan nasi goreng. /bahasa
+Kita mo makang nasi goreng. /manado
+Kamu mau pergi ke mana? /bahasa
+Ngana mo pigi ka mana? /manado
+Mereka belum tidur dari tadi. /bahasa
+Dorang balum tidor dari tadi. /manado
+Kita harus pulang sekarang. /bahasa
+Torang musti pulang skarang. /manado
+Dia tidak tahu masalah itu. /bahasa
+Dia nyanda tau masalah itu. /manado
+Kenapa kamu marah kepada saya? /bahasa
+Kyapa ngana marah pa kita? /manado
+Hari ini cuaca sangat panas. /bahasa
+Hari ini cuaca panas skali. /manado
+Tolong ambilkan air minum. /bahasa
+Tolong ambe akang aer minong. /manado
+Kapan kamu akan datang ke sini? /bahasa
+Kapan ngana mo datang ka mari? /manado
+Saya sudah kenyang sekali. /bahasa
+Kita so kanyang skali. /manado
+Anjing itu menggonggong terus. /bahasa
+Anjing itu babagonggong trus. /manado
+Baju ini terlalu besar untuk saya. /bahasa
+Baju ini talalu basar for pa kita. /manado
+Berapa harga ikan ini? /bahasa
+Barapa harga ikang ini? /manado
+Jangan lupa kunci pintu. /bahasa
+Jangan lupa konci pintu. /manado
+Saya tidak suka makan pedas. /bahasa
+Kita nyanda suka makang padas. /manado
+Teman saya sedang sakit. /bahasa
+Kita pe tamang ada saki. /manado
+Besok kita libur kerja. /bahasa
+Besok torang libor kerja. /manado
+Apakah kamu melihat dompet saya? /bahasa
+Apa ngana ada lia kita pe dompet? /manado
+Anak itu menangis mencari ibunya. /bahasa
+Anaq itu manangis bacari dia pe mama. /manado
+Lampu di kamar mati. /bahasa
+Lampu di kamar mati. /manado
+Saya mau beli kue cucur. /bahasa
+Kita mo bli kue cucur. /manado
+Kamu sudah mandi atau belum? /bahasa
+Ngana so mandi ato balum? /manado
+Ibu sedang memasak di dapur. /bahasa
+Mama ada bamasak di dapor. /manado
+Ayah baru pulang dari kantor. /bahasa
+Papa baru pulang dari kantor. /manado
+Mereka sedang bermain bola. /bahasa
+Dorang ada bamaeng bola. /manado
+Uang saya sudah habis. /bahasa
+Kita pe uang so abis. /manado
+Sepatu ini sangat bagus. /bahasa
+Spatu ini bagus skali. /manado
+Jangan ribut, adik sedang tidur. /bahasa
+Jangan ribut, ade ada tidor. /manado
+Cepat sedikit, kita sudah terlambat. /bahasa
+Cepat sadiki, torang so talambat. /manado
+Tolong bantu saya angkat meja ini. /bahasa
+Tolong bantu pa kita angkat meja ini. /manado
+Rumahnya sangat jauh dari sini. /bahasa
+Dia pe ruma jao skali dari sini. /manado
+Saya lupa membawa payung. /bahasa
+Kita lupa bawa payong. /manado
+Hujan sangat deras di luar. /bahasa
+Ujang kras skali di luar. /manado
+Kopi ini terlalu manis. /bahasa
+Kopi ini talalu manis. /manado
+Kamu cantik sekali hari ini. /bahasa
+Ngana cantik skali hari ini. /manado
+Jangan bicara seperti itu. /bahasa
+Jangan bicara bagitu. /manado
+Kapan kita akan bertemu lagi? /bahasa
+Kapan torang mo dapa baku dapa ulang? /manado
+Mereka berjalan kaki ke sekolah. /bahasa
+Dorang bajalang kaki ka skola. /manado
+Saya pusing sekali hari ini. /bahasa
+Kita pusing skali hari ini. /manado
+Dia sedang menelepon pacarnya. /bahasa
+Dia ada batelfon dia pe pacar. /manado
+Buku ini milik siapa? /bahasa
+Buku ini sapa pe punya? /manado
+Saya tidak mengerti maksudmu. /bahasa
+Kita nyanda mangarti ngana pe maksud. /manado
+Coba kamu lihat di sana. /bahasa
+Coba ngana lia di sana. /manado
+Kenapa kamu tidak datang kemarin? /bahasa
+Kyapa ngana nyanda datang kamaring? /manado
+Kami sedang menonton televisi. /bahasa
+Torang ada banonton tivi. /manado
+Rambutnya sangat panjang dan hitam. /bahasa
+Dia pe rambu panjang skali deng itam. /manado
+Tolong tutup jendela itu. /bahasa
+Tolong tutu jandela itu. /manado
+Saya sedang membaca berita. /bahasa
+Kita ada babaca brita. /manado
+Dia selalu bangun pagi. /bahasa
+Dia slalu bangun pagi. /manado
+Malam ini udara sangat dingin. /bahasa
+Malam ini udara dinge skali. /manado
+Saya mau pergi ke Manado besok. /bahasa
+Kita mo pigi ka Manado besok. /manado
+Mobil itu melaju sangat kencang. /bahasa
+Oto itu balari kancang skali. /manado
+Kucing saya hilang kemarin. /bahasa
+Kita pe tusa ilang kamaring. /manado
+Kamu harus rajin belajar. /bahasa
+Ngana musti rajing balajar. /manado
+Saya lapar, mau cari makanan. /bahasa
+Kita lapar, mo cari makang. /manado
+Harga beras naik lagi. /bahasa
+Harga bras nae ulang. /manado
+Jangan membuang sampah sembarangan. /bahasa
+Jangan babuang sampa sambarang. /manado
+Saya sangat senang bertemu kamu. /bahasa
+Kita sanang skali baku dapa deng ngana. /manado
+Maafkan saya jika saya salah. /bahasa
+Maaf akang pa kita kalo kita ada sala. /manado
+Ayo kita pergi sekarang juga. /bahasa
+Mari jo torang pigi skarang. /manado
+Bunga ini harum sekali. /bahasa
+Bunga ini baong skali. /manado
+Dia pandai bernyanyi. /bahasa
+Dia pintar manyanyi. /manado
+Tolong kembalikan uang saya. /bahasa
+Tolong kase pulang kita pe uang. /manado
+Kenapa kamu menangis sendiri? /bahasa
+Kyapa ngana manangis sandiri? /manado
+Saya tidak berani masuk ke sana. /bahasa
+Kita nyanda brani maso ka sana. /manado
+Coba tanya kepada bapak itu. /bahasa
+Coba batanya pa bapa itu. /manado
+Saya harus mencuci baju hari ini. /bahasa
+Kita musti bacuci baju hari ini. /manado
+Dia sedang menyapu halaman. /bahasa
+Dia ada basapu halaman. /manado
+Jangan berlari di dalam rumah. /bahasa
+Jangan balari di dalang ruma. /manado
+Suaramu terlalu keras. /bahasa
+Ngana pe suara talalu kras. /manado
+Siapa yang mengetuk pintu? /bahasa
+Sapa yang ada batoki pintu? /manado
+Saya mau minum teh manis. /bahasa
+Kita mo minong te manis. /manado
+Kamu tinggal di mana sekarang? /bahasa
+Ngana tinggal di mana skarang? /manado
+Mereka sedang rapat di kantor. /bahasa
+Dorang ada rapat di kantor. /manado
+Kapan pertandingan itu dimulai? /bahasa
+Kapan pertandingan itu mo mulai? /manado
+Saya lupa kata sandi ponsel saya. /bahasa
+Kita lupa kata sandi kita pe hape. /manado
+Pakaian saya masih basah. /bahasa
+Kita pe pakean masi basa. /manado
+Dia memukul meja dengan keras. /bahasa
+Dia ada toki meja kras-kras. /manado
+Jangan sentuh barang itu. /bahasa
+Jangan pegang barang itu. /manado
+Saya sakit gigi dari semalam. /bahasa
+Kita saki gigi dari samalam. /manado
+Kamu kelihatan lelah sekali. /bahasa
+Ngana dapa lia lalah skali. /manado
+Tolong belikan saya pulsa. /bahasa
+Tolong bli akang pa kita pulsa. /manado
+Saya sudah menunggu dua jam. /bahasa
+Kita so manunggu dua jam. /manado
+Dia sedang sakit perut. /bahasa
+Dia ada saki purut. /manado
+Kenapa lampu jalan mati? /bahasa
+Kyapa lampu jalang mati? /manado
+Saya mau potong rambut besok. /bahasa
+Kita mo potong rambu besok. /manado
+Jalan ini sangat macet. /bahasa
+Jalang ini macet skali. /manado
+Kamu percaya pada dia? /bahasa
+Ngana parcaya pa dia? /manado
+Saya takut melihat anjing besar. /bahasa
+Kita tako mo lia anjing basar. /manado
+Mari kita makan bersama. /bahasa
+Mari jo torang makang sama-sama. /manado
+Jangan tertawa keras-keras. /bahasa
+Jangan tatawa kras-kras. /manado
+Ibu sedang pergi ke pasar. /bahasa
+Mama ada pigi ka pasar. /manado
+Kakak saya baru lulus kuliah. /bahasa
+Kita pe kaka baru lulus kuliah. /manado
+Angin bertiup sangat kencang. /bahasa
+Anging batiop kancang skali. /manado
+Saya tidak sengaja menjatuhkan gelas. /bahasa
+Kita nyanda sangaja kase jato glas. /manado
+Udaranya sangat segar di sini. /bahasa
+Udara di sini segar skali. /manado
+Kapan kamu merayakan ulang tahun? /bahasa
+Kapan ngana mo beking ulang taong? /manado
+Saya mau membeli sepatu baru. /bahasa
+Kita mo bli spatu baru. /manado
+Pohon itu tumbang kemarin. /bahasa
+Pohon itu jato kamaring. /manado
+Dia adalah teman baik saya. /bahasa
+Dia itu kita pe tamang bae. /manado
+Anak-anak sedang bermain layangan. /bahasa
+Anaq-anaq ada bamaeng layangan. /manado
+Saya tidak mau ikut dengan mereka. /bahasa
+Kita nyanda mo iko deng dorang. /manado
+Kenapa kamu datang terlambat? /bahasa
+Kyapa ngana datang talambat? /manado
+Kemeja ini kotor sekali. /bahasa
+Kemeja ini kotor skali. /manado
+Saya mau tidur sebentar. /bahasa
+Kita mo tidor sadiki. /manado
+Siapa yang masak makanan ini? /bahasa
+Sapa yang da masak makangang ini? /manado
+Harga tiket pesawat sangat mahal. /bahasa
+Harga tiket pesawat mahal skali. /manado
+Saya tidak bisa berenang. /bahasa
+Kita nyanda tau baranang. /manado
+Dia menangis karena sedih. /bahasa
+Dia manangis lantaran sadih. /manado
+Cepat masuk, di luar hujan. /bahasa
+Cepat maso, di luar ujang. /manado
+Jangan lupa matikan kompor. /bahasa
+Jangan lupa kase mati kompor. /manado
+Kamu harus makan sayur. /bahasa
+Ngana musti makang sayor. /manado
+Saya akan menelepon kamu nanti. /bahasa
+Kita mo telfon pa ngana nanti. /manado
+Tolong carikan kacamata saya. /bahasa
+Tolong cari akang kita pe kacamata. /manado
+Dia sedang mencuci sepeda motor. /bahasa
+Dia ada bacuci motor. /manado
+Saya benci melihat kecoa. /bahasa
+Kita benci mo lia kacoa. /manado
+Mari kita berfoto di sini. /bahasa
+Mari jo torang bafoto di sini. /manado
+Jangan menangis lagi, ya. /bahasa
+Jangan manangis ulang, ne. /manado
+Saya bingung harus berbuat apa. /bahasa
+Kita bingung musti beking apa. /manado
+Dia sangat rajin bekerja setiap hari. /bahasa
+Dia rajing skali bakarja stiap hari. /manado
+Telinga saya terasa sakit. /bahasa
+Kita pe talinga rasa saki. /manado
+Kenapa kamu suka marah-marah? /bahasa
+Kyapa ngana suka bamarah-marah? /manado
+Saya ingin makan ikan bakar. /bahasa
+Kita mo makang ikang bakar. /manado
+Kamu sungguh keterlaluan. /bahasa
+Ngana talalu skali. /manado
+Mereka lari ketakutan. /bahasa
+Dorang balari lantaran tako. /manado
+Tolong sampaikan salam saya padanya. /bahasa
+Tolong kase sampe kita pe salam pa dia. /manado
+Kamar ini sangat berantakan. /bahasa
+Kamar ini barantakan skali. /manado
+Saya sudah membersihkan meja. /bahasa
+Kita so beking barisi meja. /manado
+Jangan tinggalkan saya sendiri. /bahasa
+Jangan kase tinggal kita sandiri. /manado
+Saya tidak peduli dengan omongannya. /bahasa
+Kita nyanda paduli deng dia pe mulu. /manado
+Apakah kamu punya uang receh? /bahasa
+Apa ngana ada uang kacil? /manado
+Dompet saya tertinggal di rumah. /bahasa
+Kita pe dompet tatinggal di ruma. /manado
+Saya merasa sangat mengantuk. /bahasa
+Kita rasa manganto skali. /manado
+Siapa namamu? /bahasa
+Sapa ngana pe nama? /manado
+Saya tidak suka bau ini. /bahasa
+Kita nyanda suka ini baong. /manado
+Mereka sangat berisik di luar. /bahasa
+Dorang bising skali di luar. /manado
+Kita harus segera pindah rumah. /bahasa
+Torang musti lakas pinda ruma. /manado
+Jangan memotong pembicaraan orang. /bahasa
+Jangan bapotong orang pe bicara. /manado
+Saya mau membuang sampah dulu. /bahasa
+Kita mo buang sampa dulu. /manado
+Hati-hati di jalan, ya. /bahasa
+Hati-hati di jalang, ne. /manado
+Kenapa wajahmu pucat sekali? /bahasa
+Kyapa ngana pe muka pucat skali? /manado
+Dia sering lupa membawa kunci. /bahasa
+Dia sring lupa bawa konci. /manado
+Saya sudah bosan menunggu di sini. /bahasa
+Kita so bosan manunggu di sini. /manado
+Berapa umur anakmu sekarang? /bahasa
+Barapa umur ngana pe anaq skarang? /manado
+Ayo kita pergi memancing besok. /bahasa
+Mari jo torang pigi mamancing besok. /manado
+Jangan duduk di lantai yang dingin. /bahasa
+Jangan dudu di lante dinge. /manado
+Saya mendengar suara aneh tadi malam. /bahasa
+Kita ada dangar suara aneh tadi malam. /manado
+Kamu harus bersabar menghadapi dia. /bahasa
+Ngana musti basabar manghadapi pa dia. /manado
+Coba cicipi makanan ini. /bahasa
+Coba rasa makangang ini. /manado
+Saya tidak akan pernah lupa. /bahasa
+Kita nyanda mo lupa. /manado
+Kenapa kamu tidak mau makan? /bahasa
+Kyapa ngana nyanda mo makang? /manado
+Tangannya terluka karena pisau. /bahasa
+Dia pe tangan dapa iris pisau. /manado
+Saya hanya bercanda tadi. /bahasa
+Kita cuma bacanda tadi. /manado
+Jangan berbohong kepada saya. /bahasa
+Jangan badusta pa kita. /manado
+Buku ini sangat tebal dan berat. /bahasa
+Buku ini tabal deng brat skali. /manado
+Saya butuh bantuanmu sekarang. /bahasa
+Kita butuh ngana pe bantuan skarang. /manado
+Di mana kamu menaruh kunci mobil? /bahasa
+Di mana ngana taru konci oto? /manado
+Saya sangat kedinginan malam ini. /bahasa
+Kita rasa dinge skali malam ini. /manado
+Kamu pasti bisa melakukannya. /bahasa
+Ngana pasti bisa beking itu. /manado
+Mereka selalu datang terlambat. /bahasa
+Dorang slalu datang talambat. /manado
+Obat ini rasanya sangat pahit. /bahasa
+Obat ini rasa pait skali. /manado
+Jangan menangis karena masalah kecil. /bahasa
+Jangan manangis cuma lantaran masalah kacil. /manado
+Saya sedang mencuci piring kotor. /bahasa
+Kita ada bacuci piring kotor. /manado
+Sepatu saya basah karena hujan. /bahasa
+Kita pe spatu basa lantaran ujang. /manado
+Kapan ayahmu pulang dari Jakarta? /bahasa
+Kapan ngana pe papa mo pulang dari Jakarta? /manado
+Tolong belikan gula di warung. /bahasa
+Tolong bli akang gula di warong. /manado
+Kenapa kamu berlari sangat cepat? /bahasa
+Kyapa ngana balari kancang skali? /manado
+Saya tidak tahu cara membuat kue. /bahasa
+Kita nyanda tau bagimana mo beking kue. /manado
+Anak itu nakal sekali. /bahasa
+Anaq itu nakal skali. /manado
+Dia memakai baju warna merah. /bahasa
+Dia berpake baju warna mera. /manado
+Kucing itu sedang tidur di sofa. /bahasa
+Tusa itu ada tidor di sofa. /manado
+Saya mau melihat pemandangan laut. /bahasa
+Kita mo lia pamandangan lao. /manado
+Mereka sedang bertengkar di luar. /bahasa
+Dorang ada babakulae di luar. /manado
+Tolong jaga adikmu sebentar. /bahasa
+Tolong jaga ngana pe ade sadiki. /manado
+Saya lupa membayar tagihan listrik. /bahasa
+Kita lupa bayar tagihan listrik. /manado
+Rumah ini sudah sangat tua. /bahasa
+Ruma ini so tua skali. /manado
+Jangan main api, nanti terbakar. /bahasa
+Jangan bamaeng api, nanti tabakar. /manado
+Suami saya sedang pergi bekerja. /bahasa
+Kita pe suami ada pigi bakarja. /manado
+Kenapa pintu ini tidak bisa dibuka? /bahasa
+Kyapa pintu ini nyanda bisa tabuka? /manado
+Saya merasa lega sekarang. /bahasa
+Kita rasa lega skarang. /manado
+Jangan menyembunyikan kebenaran. /bahasa
+Jangan basambunyi kabanaran. /manado
+Saya ingin membeli sepeda baru. /bahasa
+Kita mo bli speda baru. /manado
+Makanan ini sangat pedas tapi enak. /bahasa
+Makangang ini padas skali mar sadap. /manado
+Tolong kecilkan suara televisi itu. /bahasa
+Tolong kase kacil suara tivi itu. /manado
+Kapan kamu akan mengembalikan buku saya? /bahasa
+Kapan ngana mo kase pulang kita pe buku? /manado
+Saya sangat bersyukur hari ini. /bahasa
+Kita basyukur skali hari ini. /manado
+Jangan mudah menyerah pada keadaan. /bahasa
+Jangan gampang manyara pa kaadaan. /manado
+Dia sedang menyiram bunga di kebun. /bahasa
+Dia ada basiram bunga di kobong. /manado
+Saya melihat dia menangis kemarin. /bahasa
+Kita ada lia pa dia manangis kamaring. /manado
+Mari kita berdoa sebelum makan. /bahasa
+Mari jo torang badoa sabalum makang. /manado
+Saya tidak suka orang yang sombong. /bahasa
+Kita nyanda suka pa orang yang sombong. /manado
+Berapa lama kamu akan tinggal di sini? /bahasa
+Barapa lama ngana mo tinggal di sini? /manado
+Pagi ini sangat cerah. /bahasa
+Pagi ini cerah skali. /manado
+Tolong buka botol ini untuk saya. /bahasa
+Tolong buka botol ini for pa kita. /manado
+Saya sedang memotong sayur di dapur. /bahasa
+Kita ada bapotong sayor di dapor. /manado
+Jangan membuang waktu dengan percuma. /bahasa
+Jangan babuang waktu parcuma. /manado
+Kakak sedang mendengarkan musik. /bahasa
+Kaka ada badangar musik. /manado
+Saya sangat rindu kepada keluarga. /bahasa
+Kita rindu skali pa kaluarga. /manado
+Kenapa kamu tidak menjawab telepon saya? /bahasa
+Kyapa ngana nyanda angkat kita pe telfon? /manado
+Terima kasih banyak atas bantuanmu. /bahasa
+Makase banya for ngana pe bantuan. /manado
+Kamu harus bangun lebih pagi besok. /bahasa
+Ngana musti bangun lebe pagi besok. /manado
+Saya tidak mengerti jalan ceritanya. /bahasa
+Kita nyanda mangarti dia pe jalang carita. /manado
+Pisau ini sudah tidak tajam lagi. /bahasa
+Pisau ini so nyanda tajam ulang. /manado
+Kenapa kamu selalu mengeluh? /bahasa
+Kyapa ngana slalu mangalu? /manado
+Tolong ambilkan handuk di kamar mandi. /bahasa
+Tolong ambe akang handuk di kamar mandi. /manado
+Saya mau jalan-jalan ke pantai. /bahasa
+Kita mo bapontar ka pante. /manado
+Kue ini buatan siapa? /bahasa
+Kue ini sapa pe bekingan? /manado
+Jangan biarkan air keran menyala. /bahasa
+Jangan kase biar aer kran manyala. /manado
+Saya benci orang yang suka menipu. /bahasa
+Kita benci pa orang yang suka manipu. /manado
+Dia jatuh dari pohon mangga. /bahasa
+Dia bato jato dari pohon mangga. /manado
+Tolong pinjamkan saya uang sebentar. /bahasa
+Tolong kase pinjang pa kita uang sadiki. /manado
+Kenapa bajumu basah kuyup? /bahasa
+Kyapa ngana pe baju basa skali? /manado
+Saya belum selesai mengerjakan tugas. /bahasa
+Kita balum slese beking tugas. /manado
+Kamu harus lebih berhati-hati. /bahasa
+Ngana musti lebe bae-bae. /manado
+Jangan memandang orang dengan sinis. /bahasa
+Jangan balia pa orang pandang enteng. /manado
+Saya sudah memaafkan kesalahanmu. /bahasa
+Kita so maaf akang ngana pe sala. /manado
+Kapan kita pergi memetik cengkeh? /bahasa
+Kapan torang mo pigi fofoki cengkeh? /manado
+Mereka berdua sangat serasi. /bahasa
+Dorang dua dapa lia sarasi skali. /manado
+Saya tidak suka teh yang terlalu panas. /bahasa
+Kita nyanda suka te yang talalu panas. /manado
+Ayo kita makan ikan woku belanga. /bahasa
+Mari jo torang makang ikang woku blanga. /manado

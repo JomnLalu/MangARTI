@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MangARTI · Penerjemah Bahasa Indonesia – Bahasa Manado</title>
+  <meta name="description" content="Terjemahkan kalimat sehari-hari antara Bahasa Indonesia formal dan Bahasa Manado dengan MangARTI, adaptor LoRA untuk Llama 3 8B Instruct.">
+  <meta name="theme-color" content="#07071b">
+  <meta name="author" content="Jonathan Immanuel Montolalu">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MangARTI">
+  <meta property="og:title" content="MangARTI · Penerjemah Bahasa Indonesia – Bahasa Manado">
+  <meta property="og:description" content="Terjemahkan kalimat sehari-hari antara Bahasa Indonesia formal dan Bahasa Manado.">
+  <meta property="og:image" content="https://share.jomontolalu.com/mangarti/banner.png">
+  <meta property="og:image:alt" content="Logo MangARTI: ikan bergaris jaring di atas gradasi hitam ke biru nila">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://share.jomontolalu.com/mangarti/banner.png">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#source">Langsung ke penerjemah</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="MangARTI, beranda">
+        <img src="/assets/mark.png" alt="" width="47" height="32">
+        <span>MangARTI</span>
+      </a>
+      <div class="header-actions">
+        <span class="status" id="status" data-state="loading" role="status">
+          <span class="status-indicator" aria-hidden="true"></span>
+          <span class="status-label">Memuat model…</span>
+        </span>
+        <nav class="header-links" aria-label="Tautan proyek">
+          <a href="https://github.com/JomnLalu/MangARTI" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://huggingface.co/Jmnlalu/MangARTI" target="_blank" rel="noopener">Hugging Face</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <h1>Terjemahkan Bahasa Indonesia dan Bahasa Manado</h1>
+      <p>MangARTI menerjemahkan kalimat sehari-hari antara Bahasa Indonesia formal dan Bahasa Manado, bahasa pergaulan di Manado dan sebagian besar Sulawesi Utara.</p>
+    </section>
+
+    <section class="card translator" aria-label="Penerjemah">
+      <div class="lang-bar">
+        <span class="lang" id="source-lang">Bahasa Indonesia</span>
+        <button class="btn btn-icon" id="swap" type="button" aria-label="Tukar arah terjemahan" title="Tukar arah terjemahan">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h13m0 0-4-4m4 4-4 4M17 17H4m0 0 4-4m-4 4 4 4"/></svg>
+        </button>
+        <span class="lang" id="target-lang">Bahasa Manado</span>
+      </div>
+
+      <div class="panes">
+        <div class="pane">
+          <label class="visually-hidden" for="source">Teks sumber</label>
+          <textarea id="source" maxlength="500" rows="5" spellcheck="false" autocomplete="off"
+                    placeholder="Ketik satu kalimat, misalnya: Saya mau makan nasi goreng."></textarea>
+          <div class="pane-footer">
+            <span class="meta" id="char-count">0 / 500</span>
+            <button class="btn btn-ghost" id="clear" type="button" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+              Hapus
+            </button>
+          </div>
+        </div>
+
+        <div class="pane pane-output">
+          <div class="output" id="output" aria-live="polite" aria-busy="false" data-state="empty">
+            <p class="output-placeholder">Terjemahan akan muncul di sini.</p>
+          </div>
+          <div class="pane-footer">
+            <span class="meta" id="output-meta"></span>
+            <button class="btn btn-ghost" id="copy" type="button" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a1 1 0 0 1 1-1h10"/></svg>
+              <span>Salin</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="action-bar">
+        <p class="hint" id="hint" aria-live="polite"></p>
+        <button class="btn btn-primary" id="translate" type="button" disabled>
+          <span class="spinner" aria-hidden="true"></span>
+          <span class="btn-label">Terjemahkan</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="examples-title">
+      <h2 id="examples-title">Coba contoh kalimat</h2>
+      <div class="chips" id="examples"></div>
+    </section>
+
+    <details class="card settings" id="settings">
+      <summary>
+        <span>Pengaturan generasi</span>
+        <svg class="chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </summary>
+      <div class="settings-body">
+        <div class="field">
+          <div class="field-head"><label for="max-tokens">Token baru maksimum</label><output id="max-tokens-value" for="max-tokens">128</output></div>
+          <input type="range" id="max-tokens" min="16" max="512" step="16" value="128">
+          <p class="field-help">Batas panjang hasil. 128 cukup untuk satu kalimat.</p>
+        </div>
+        <div class="field">
+          <div class="field-head">
+            <label for="do-sample">Sampling</label>
+            <input type="checkbox" class="switch" id="do-sample" role="switch">
+          </div>
+          <p class="field-help">Mati: hasil selalu sama untuk input yang sama. Nyala: hasil lebih bervariasi.</p>
+        </div>
+        <div class="field" data-requires-sampling>
+          <div class="field-head"><label for="temperature">Temperature</label><output id="temperature-value" for="temperature">0.7</output></div>
+          <input type="range" id="temperature" min="0.1" max="2" step="0.1" value="0.7">
+        </div>
+        <div class="field" data-requires-sampling>
+          <div class="field-head"><label for="top-p">Top-p</label><output id="top-p-value" for="top-p">0.90</output></div>
+          <input type="range" id="top-p" min="0.1" max="1" step="0.05" value="0.9">
+        </div>
+        <div class="settings-actions">
+          <button class="btn btn-secondary" id="reset-settings" type="button">Kembalikan bawaan</button>
+        </div>
+      </div>
+    </details>
+
+    <section class="section" aria-labelledby="notes-title">
+      <h2 id="notes-title">Sebelum memakai hasilnya</h2>
+      <div class="notes">
+        <article class="card note">
+          <h3>Satu kalimat per terjemahan</h3>
+          <p>Model dilatih dengan kalimat tunggal. Paragraf panjang bisa membuat bagian teks terlewat atau ditambah.</p>
+        </article>
+        <article class="card note">
+          <h3>Pastikan arahnya benar</h3>
+          <p>Dalam Bahasa Manado <em>kita</em> berarti “saya”, sedangkan “kami” adalah <em>torang</em>. Arah yang salah bisa membalik makna tanpa terlihat keliru.</p>
+        </article>
+        <article class="card note">
+          <h3>Periksa sebelum dipublikasikan</h3>
+          <p>Ejaan Bahasa Manado belum baku dan model belum dievaluasi secara kuantitatif. Minta penutur fasih memeriksa hasil yang penting.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-text">
+        <p>© 2026 Jonathan Immanuel Montolalu. Adaptor dirilis di bawah <a href="https://www.llama.com/llama3/license/" target="_blank" rel="noopener">Meta Llama 3 Community License</a>.</p>
+        <p>Built with Meta Llama 3.</p>
+      </div>
+      <nav class="footer-links" aria-label="Tautan proyek">
+        <a href="https://github.com/JomnLalu/MangARTI" target="_blank" rel="noopener">Kode sumber</a>
+        <a href="https://huggingface.co/Jmnlalu/MangARTI" target="_blank" rel="noopener">Model</a>
+        <a href="https://huggingface.co/datasets/Jmnlalu/Bahasa-Manado-Alpaca-Translations" target="_blank" rel="noopener">Dataset</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="/app.js" defer></script>
+</body>
+</html>
